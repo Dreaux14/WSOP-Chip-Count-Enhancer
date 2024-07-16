@@ -9,7 +9,7 @@ WSOP Chip Count Enhancer is a Chrome extension designed to improve the readabili
 - **Seamless Integration**: Automatically enhances the WSOP chip count tables without requiring any manual input from the user.
 - **Real-time Updates**: The extension updates the chip count and trend columns in real-time as the WSOP chip count tables are updated.
 
-- ## When Changes are Made
+## When Changes are Made
 The extension enhances the chip count tables only when the blinds are listed on the page, indicating that the tournament is in progress. At the end of play for the day, the blinds are not listed, and thus the calculations cannot be made. Once play resumes and the big blind is shown, the extension can continue to make the calculations and add the fields to the table. This ensures that the displayed data is always accurate and relevant to the current state of the tournament.
 
 ## Installation Instructions
