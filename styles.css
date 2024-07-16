@@ -1,0 +1,52 @@
+#chipcountsTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#chipcountsTable th,
+#chipcountsTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#chipcountsTable th.titlebg {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  color: #333;
+}
+
+#chipcountsTable td.place,
+#chipcountsTable td.player,
+#chipcountsTable td.chipstack,
+#chipcountsTable td.trends,
+#chipcountsTable td.city,
+#chipcountsTable td.state,
+#chipcountsTable td.country,
+#chipcountsTable td.chipstackbb,
+#chipcountsTable td.trendbb {
+  padding: 8px;
+  text-align: center;
+}
+
+.custom-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.custom-table tr:hover {
+  background-color: #ddd;
+}
+
+.custom-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4caf50;
+  color: white;
+}
+
+.chipstack,
+.trends {
+  color: black;
+  font-weight: bold;
+}

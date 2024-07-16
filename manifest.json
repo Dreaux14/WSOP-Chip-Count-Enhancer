@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "WSOP Chip Count Enhancer",
+    "version": "1.0",
+    "description": "Adds Chip Count (BB) and Trend (BB) columns to WSOP chip count tables.",
+    "icons": {
+        "128": "images/wsop_128.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "images/wsop_16.png",
+            "48": "images/wsop_48.png",
+            "128": "images/wsop_128.png"
+        },
+        "default_title": "WSOP Chip Count Enhancer"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.wsop.com/tournaments/chipcounts/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "css": [
+                "styles.css"
+            ]
+        }
+    ]
+}
