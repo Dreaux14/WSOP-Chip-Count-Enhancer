@@ -3,14 +3,13 @@
 WSOP Chip Count Enhancer is a Chrome extension designed to improve the readability and analysis of existing chip count tables on the World Series of Poker (WSOP) website. This extension enhances the display by adding two additional columns: Chip Count (BB) and Trend (BB). These columns display the chip count and trend in terms of Big Blinds, providing users with a clearer and more meaningful understanding of players' standings.
 
 ## Features
-- **Reference Only**: Enhances the display of existing information on WSOP chip count tables without adding or facilitating any gambling functionality.
 - **Chip Count (BB)**: Converts the chip count to Big Blinds, allowing users to easily gauge the relative size of players' stacks.
 - **Trend (BB)**: Displays the trend (change in chip count) in terms of Big Blinds, helping users understand how players' stacks have changed over time.
 - **Seamless Integration**: Automatically enhances the WSOP chip count tables without requiring any manual input from the user.
 - **Real-time Updates**: The extension updates the chip count and trend columns in real-time as the WSOP chip count tables are updated.
 
 ## When Changes are Made
-The extension enhances the chip count tables only when the blinds are listed on the page, indicating that the tournament is in progress. At the end of play for the day, the blinds are not listed, and thus the calculations cannot be made. Once play resumes and the big blind is shown, the extension can continue to make the calculations and add the fields to the table. This ensures that the displayed data is always accurate and relevant to the current state of the tournament.
+The extension enhances the chip count tables only when the blinds are listed on the page, indicating that the tournament is in progress. At the end of play for the day, the blinds are not listed, and thus the calculations cannot be made. Once play resumes and the big blind is shown, the extension can continue to make the calculations and add the fields to the table. 
 
 ## Installation Instructions
 
