@@ -12,7 +12,7 @@ WSOP Chip Count Enhancer is a Chrome extension designed to improve the readabili
 ## Installation Instructions
 
 ### Step 1: Download the Extension
-1. Go to the [GitHub repository]((https://github.com/Dreaux14/WSOP-Chip-Count-Enhancer/tree/main)) for WSOP Chip Count Enhancer.
+1. Go to the [GitHub repository](https://github.com/Dreaux14/WSOP-Chip-Count-Enhancer/tree/main) for WSOP Chip Count Enhancer.
 2. Click on the `Code` button and select `Download ZIP`.
 3. Extract the ZIP file to a location on your computer.
 
